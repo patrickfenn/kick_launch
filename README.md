@@ -17,4 +17,4 @@ Notes:
     good enough for now.
 
 Errors:
-403: Happens when cloudflare gets too many requests in a period of time. Will need to wait ~10 minutes.
+403: See https://github.com/streamlink/streamlink/issues/6018 . I typically can wait some time (~10 min) and it will work again.
