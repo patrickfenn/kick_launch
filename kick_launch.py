@@ -21,10 +21,10 @@ def args_are_invalid():
         if (len(sys.argv) != 3):
             print("Expected 3 args")
             return 1
-        else:
-            if (len(sys.argv) != 2):
-                print("Expected 2 args")
-                return 1
+    else:
+        if (len(sys.argv) != 2):
+            print("Expected 2 args")
+            return 1
     return 0
 
 def get_streamlink_path():
