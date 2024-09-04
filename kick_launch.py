@@ -4,7 +4,7 @@
 Usage:
 [python3] kick_launch.py {channel name}
 
-Will need to change shebang if python3 path is different and don't want to prefix python3.
+Will need to change shebang if it is different and don't want to prefix python3.
 """
 
 import os
